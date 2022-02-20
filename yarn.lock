@@ -3815,10 +3815,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-color@^2.17.3":
-  version "2.17.4"
-  resolved "https://registry.yarnpkg.com/@types/react-color/-/react-color-2.17.4.tgz#ddeffbb2fcebf8fb1f3bb25721c3bdf7a3a05788"
-  integrity sha512-pAO3+7uHoESg5QMqjnGjw9F7sALjEZsaU41yGiUZbmHiJMoSXH1UklFJ1bZkwhYskaJgiY+AS6wirl17yBh5GA==
+"@types/react-color@^3.0.6":
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/@types/react-color/-/react-color-3.0.6.tgz#602fed023802b2424e7cd6ff3594ccd3d5055f9a"
+  integrity sha512-OzPIO5AyRmLA7PlOyISlgabpYUa3En74LP8mTMa0veCA719SvYQov4WLMsHvCgXP+L+KI9yGhYnqZafVGG0P4w==
   dependencies:
     "@types/react" "*"
     "@types/reactcss" "*"
