@@ -9063,9 +9063,9 @@ gatsby-page-utils@^2.6.0:
     micromatch "^4.0.4"
 
 gatsby-plugin-catch-links@^4.2.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-4.6.0.tgz#e875b674ee6cf42eae37dcd654857867351218d0"
-  integrity sha512-/FXReA80nyWtk2KM9dn4Epo7DftTLyW6UKNuKtndAh9tDMLqiXwqmUCYhcRc750auN8O8hN7ddCIxUgD5vGp7g==
+  version "4.17.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-4.17.0.tgz#eb869504626f7fa6373953d0b4613c7f4bb44a17"
+  integrity sha512-hqrNbrmeJ22nhq2W1u+KBFtrH9zpDrum6DQD+TOTOjlA+MX59Nmc4mewUjuMKa9CEv93/k3Y58NIhFcGk6jHWg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     escape-string-regexp "^1.0.5"
